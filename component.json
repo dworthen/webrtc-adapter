@@ -1,0 +1,13 @@
+{
+  "name": "webrtc-adapter",
+  "repo": "dworthen/webrtc-adapter",
+  "description": "webrtc adapter to work between browsers",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
